@@ -1,0 +1,5 @@
+flask
+transformers
+torch
+
+# pip install openai==0.28 to get response of Chat gpt, need to install this perticular version of openai.
